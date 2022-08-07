@@ -3,7 +3,7 @@
 Authors: Brenda De Leon, Kelly Mullaney, Kevin Rivera
 August 2022
 
-![King County, WA](./data/king_county_banner.jpeg)
+![King County, WA](https://kingcounty.gov/~/media/depts/boundary-review-board/images/bellevue-at-night-banner.ashx?la=en)
 
 
 ### Business Problem
