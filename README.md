@@ -6,9 +6,9 @@ August 2022
 <br/>
 ![King County, WA](https://kingcounty.gov/~/media/depts/boundary-review-board/images/bellevue-at-night-banner.ashx?la=en)
 
-<u>
-### Business Problem
-</u>
+
+### <u>Business Problem</u>
+
 Our stakeholders are real estate agents looking to win more business. We propose that by providing home renovation advice, real estate agents are able to differintiate themselves and establish extertise. Additonally, by increasing the sale value of the home, the real estate agent increases their commission. Finally, if your client has a great experience and you maximize the sale value, they are more likely to refer you business. We believe our recommendations will be particularly attractive for the real estate agent's clients who are home owners, home flippers, and for corporate relocation programs that are not interested in a full renovation.
 <u>
 ### The Data
