@@ -27,5 +27,5 @@ Our final model included 'price' as the target variable with 'sqft_living', 'sqf
 
 ### Next Steps
 
-Moving forward, we will perform the same steps but instead, we will to create a new feature: 'price_per_squarefoot'. We will calculate 'price_per_squarefoot' by dividing 'price' by 'sqft_living' for each home. We believe that by targeting 'price_per_squarefoot' instead of 'price' we will be able to provide a more accurate and higher performing model for our stakeholder. We are also interested in exploring the impact of filtering by zip code, and factoring in market conditions, inflation, and degradation of home over time.
+Moving forward, we will perform the same steps but instead, we will to create a new feature: price per square foot. We will calculate price per square foot by dividing 'price' by 'sqft_living' for each home. We believe that by targeting price per square foot instead of 'price' we will be able to provide a more accurate and higher performing model for our stakeholder. We are also interested in exploring the impact of filtering by zip code, and factoring in market conditions, inflation, and degradation of home over time.
 
